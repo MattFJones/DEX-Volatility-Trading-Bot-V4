@@ -14,7 +14,7 @@ To configure the bot after you unzip the folder there will be a file in there ca
 
 Fill in your public address you wish to use and the private key for that address , if you have a wallet that does not give you easy access to your private key you can put in your seed and the public address you wish to use.
 
-
+<Img SRC="config.png">
 Then pick the network/chain you wish to use 1 is for Ethereum, 2 is for BNB and 3 is for Polygon
 
 Then set the max spend this is the maximum you wish the bot to utilize from the wallet. Then save your new settings.
