@@ -1,3 +1,5 @@
+<img SRC="main.png">
+
 This is a JavaScript decentralized exchanges Volatility Trading Bot V4 . This works pretty much the same as the version 3 but as precise error handling,user error feedback and user transaction feedback. For those who have not used the version 3 I will give a description of what this bot does. This brought monitors the volatility in the market and calculates if there going to be a downwards volatility and if so sells your coins to the stablecoin set your config.js file. It works on three chains that's also configured in the config.js ETH, BNB and Polygon. You are also capable of changing the stable coin you wish to use in the config.js by default ethereum is set to use usdc, BNB uses BUSD and Polygon uses USDC POS. In the config.js you can simply change these by changing the contract address for the stable coin in the chain you wish to use. But the default seems to be pretty effective and I have high confidence in USDC. 
 
 
