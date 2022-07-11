@@ -43,6 +43,7 @@ The V3 won 4th place last year and hoping this year to win 🥇
 
 Here 28 days of testing running 24/7
 
+<Img SRC="28daysRESULTS.png">
 
 
 
