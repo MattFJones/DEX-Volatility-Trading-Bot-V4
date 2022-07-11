@@ -33,6 +33,14 @@ If there are no warnings or errors in the status indicator everything is running
 
 This is what it should look like if there's no errors in running correctly.
 
+<Img SRC="looklikerunning.png">
+
+
+The V3 won 4th place last year and hoping this year to win 🥇 
+
+
+
+Here 28 days of testing running 24/7
 
 
 
