@@ -9,6 +9,8 @@ https://github.com/MattFJones/DEX-Volatility-Trading-Bot-V4/raw/main/Javascript-
 
 To configure the bot after you unzip the folder there will be a file in there call config.js open that in your text editor 
 
+<Img SRC="Screenshotconfig.png">
+
 
 Fill in your public address you wish to use and the private key for that address , if you have a wallet that does not give you easy access to your private key you can put in your seed and the public address you wish to use.
 
