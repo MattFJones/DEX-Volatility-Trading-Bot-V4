@@ -38,6 +38,7 @@ This is what it should look like if there's no errors in running correctly.
 
 The V3 won 4th place last year and hoping this year to win 🥇 
 
+<Img SRC="iwon.png">
 
 
 Here 28 days of testing running 24/7
