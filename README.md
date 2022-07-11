@@ -23,6 +23,7 @@ Then set the max spend this is the maximum you wish the bot to utilize from the 
 
  Next find index.html right click on it and pick open with and choose any web browser.
 
+<Img SRC="Screenshotindex.png">
 
 Now the bot is open and loaded, click on the button that says run bot it will take between 5 to 10 seconds to start.
 
@@ -30,7 +31,7 @@ Now the bot is open and loaded, click on the button that says run bot it will ta
 If there are no warnings or errors in the status indicator everything is running good, if there is an error or warning in the status indicator it will tell you the problem down in the error feedback box below.
 
 
-What is your look like if there's no errors in running correctly.
+This is what it should look like if there's no errors in running correctly.
 
 
 
